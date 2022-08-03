@@ -1,0 +1,16 @@
+{
+    "name": "h27.4vegegarden_v1.0",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "jest": "^28.1.1",
+        "save-dev": "^0.0.1-security"
+    }
+}
